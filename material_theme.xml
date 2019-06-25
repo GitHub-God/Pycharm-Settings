@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="darkTitleBar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="accentColor" value="009688" />
+    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="userId" value="-36edf40:16b8ea6d20b:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>
