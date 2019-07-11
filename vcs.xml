@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/GitHub-God/Lottery-Data-Project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GitHub-God/Project2019.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workspaces\Python" />
+    <option name="cloneParentDir" value="D:\Workspaces\GitHub" />
   </component>
 </application>
