@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/GitHub-God/Project2019.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GitHub-God/Practice-Item.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Workspaces\GitHub" />
+    <option name="cloneParentDir" value="D:\Workspaces" />
   </component>
 </application>
